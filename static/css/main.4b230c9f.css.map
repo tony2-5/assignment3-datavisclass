@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4b230c9f.css","mappings":"AAAA,QACE,YAAa,CACb,qBAAsB,CACtB,QACF,CACA,gBACE,wBAAkC,CAClC,WACF","sources":["App.css"],"sourcesContent":[".parent {\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n.child1, .child2 {\n  border: 1px solid rgb(212,212,212);\n  padding: 5px;\n}"],"names":[],"sourceRoot":""}
