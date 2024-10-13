@@ -1,7 +1,7 @@
 import './App.css';
 import React, {Component} from 'react';
-import Child1 from './child1';
-import Child2 from './child2';
+import Child1 from './Child1';
+import Child2 from './Child2';
 import * as d3 from 'd3'
 import tips from './tips.csv'
 class App extends Component {
